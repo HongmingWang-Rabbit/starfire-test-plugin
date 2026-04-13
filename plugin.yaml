@@ -1,0 +1,6 @@
+name: starfire-test-plugin
+version: 1.0.0
+description: External-repo plugin for testing Starfire 30.3 github:// install
+author: Phase 30 E2E
+runtimes: [claude_code, deepagents]
+skills: [hello-from-remote]
